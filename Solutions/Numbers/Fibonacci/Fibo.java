@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//store in ArrayList instead of just printing, in case you want to do something with it later
 import java.util.ArrayList;
 
 public class Fibo{
